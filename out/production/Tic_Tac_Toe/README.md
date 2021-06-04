@@ -17,7 +17,7 @@ I would really like to learn how to make an Android App. I thought this would be
 to start with. It is relatively simple yet complex enough to learn about the Kotlin language.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=XZNBbvOWgBs)
 
 # Development Environment
 
